@@ -5,5 +5,5 @@
 # Mon Projet : TOULOUSE METROPOLE RP 🌟
 Je suis le créateur de TOULOUSE METROPOLE RP, un projet qui a pour but de vous aider et de promouvoir mes créations.
 
-Rejoignez-nous ! 🚀
+#Rejoignez-nous ! 🚀
 Si vous souhaitez nous rejoindre, voici un lien d'invitation pour notre serveur Discord : https://discord.gg/WRg8hUhpmn
